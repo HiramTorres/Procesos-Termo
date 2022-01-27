@@ -9,7 +9,7 @@ APELLIDO PATERNO APELLIDO MATERNO NOMBRE_TAREA 3
 
 1. *Si tanto el calor como el trabajo se pueden expresar en las mismas unidades, ¿por qué es necesario distinguir entre ambos?*
 
-2. . *¿Es necesario usar el concepto de energía molecular para describir y usar la función de energía interna?
+2.  *¿Es necesario usar el concepto de energía molecular para describir y usar la función de energía interna?
 Explique su respuesta.*
 
 3. *Respecto a la segunda ley de la termodinámica. Comente cada uno de los enunciados siguientes y
@@ -17,11 +17,11 @@ demuestre que son equivalentes al enunciado de la segunda ley:*
 
     - Es imposible construir un refrigerador que, trabajando continuamente, extraiga el calor de un
     cuerpo frío y lo envíe a un cuerpo caliente sin que se realice un trabajo en el sistema.
-    
+
     - La dirección natural del flujo de calor es de un cuerpo con alta temperatura a otro con baja
     temperatura, independientemente del tamaño de cada recipiente
     - Todos los procesos naturales espontáneos son irreversibles.
-        - Si, debido a que con la llegada de la       segunda ley de la termodinámica, llega un nuevo concepto llamado entropía, el cual explica la erreversibilidad de los sistemas termodinámicos. 
+        - **Si, debido a que con la llegada de la       segunda ley de la termodinámica, llega un nuevo concepto llamado entropía, el cual explica la erreversibilidad de los sistemas termodinámicos.** 
 
     - Los acontecimientos naturales siempre avanzan en una dirección que va del orden al desorden.
 4. *Es energéticamente posible extraer la energía térmica contenida en el océano y usarla para impulsar un
