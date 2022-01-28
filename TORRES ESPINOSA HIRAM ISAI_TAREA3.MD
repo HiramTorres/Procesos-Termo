@@ -13,7 +13,7 @@ APELLIDO PATERNO APELLIDO MATERNO NOMBRE_TAREA 3
 ---
 2.  *¿Es necesario usar el concepto de energía molecular para describir y usar la función de energía interna?
 Explique su respuesta.*
-**Si ya que como vemos en la definición de la energía interna es: La suma de todas las formas microscópicas de energía**
+**No porque la termodinámica ve las energías en un sistema macroscópico**
 ---
 
 3. *Respecto a la segunda ley de la termodinámica. Comente cada uno de los enunciados siguientes y
