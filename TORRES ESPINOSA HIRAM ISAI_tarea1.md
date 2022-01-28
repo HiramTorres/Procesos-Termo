@@ -16,7 +16,7 @@
     - La conducción es la transferencia de energía de las particulas más enegéticas de una sustancia hacia las adyacentes menos energéticas. 
 
 5. **Termostática** 
-    -Campo de la física que describe y relaciona las propiedades físicas de sistemas macroscópicos de materia y energía.
+    - Campo de la física que describe y relaciona las propiedades físicas de sistemas macroscópicos de materia y energía.
     
 6. **Termodinámica** 
     - Rama de la fisíca que estudia los sistemas macroscopicos para los cuales el efecto termico es importante. 
@@ -79,3 +79,8 @@
 
 24. **Proceso isométrico** 
     - Es el mismo que el isocórico
+
+
+## Referencias 
+*_[1] Yunus A.Cengel, Michael A. Boles, Mehmet Kanoglu. (2009). Termodinámica. Madrid: McGrawHill._*
+*_[2] Yunus A. Cengel, Afshin J.Ghajar. (2004). Transferencia de calor y masa. México: McGrawHill._*
