@@ -76,32 +76,47 @@ APELLIDO PATERNO APELLIDO MATERNO NOMBRE_ACTIVIDAD APRENDIZAJE 1**
 20. **En un proceso químico industrial, se proporcionan a un sistema 600 J de calor y produce 200 J de trabajo. ¿Cuál es el incremento registrado en la energía interna de este sistema?**
     - $\Delta u = 400J$
     ---
-21. En un proceso termodinámico, la energía interna del sistema se incrementa en 500 J. ¿Cuánto
-trabajo fue realizado por el gas si en el proceso fueron absorbidos 800 J de calor?
-22. El volumen de un gas disminuye de 5 a 3 L bajo una presión constante de 2 atm. ¿Cuánto trabajo
-se realiza? ¿Y se realiza sobre el gas o lo realiza éste? Si hay un incremento de 300 J en la energía
-interna, ¿cuál es el intercambio neto de calor? Trace un bosquejo del proceso.
-23. Durante una expansión isobárica, una presión constante de 250 kPa hace que el volumen de un
-gas pase de 1 a 3 L. ¿Qué trabajo realiza el gas?
-24. Un motor con 37% de eficiencia pierde 400 J de calor en cada ciclo. ¿Qué trabajo se realiza y cuánto
-calor se absorbe en cada ciclo?
-25. Una máquina de vapor recibe vapor sobrecalentado de una caldera que trabaja a 200°C y que lo
-arroja directamente al aire a 100°C. ¿Cuál es la eficiencia ideal?
-26. Un refrigerador extrae 400 J de calor de una caja en cada ciclo y expulsa 600 J hacia un recipiente
-a alta temperatura. ¿Cuál es el coeficiente de rendimiento?
-27. ¿Cuánto calor se extrae del recipiente frío si el compresor de un refrigerador realiza 180 J de
-trabajo en cada ciclo? El coeficiente de rendimiento es 4.0. ¿Cuánto calor se expulsa hacia el
-recipiente caliente?
-28. ¿En qué ley se basa la primera ley de la termodinámica? Proporcione una explicación respecto de
-los signos convencionales de la ecuación ΔE = q + w.
-29. La energía interna de un gas ideal solo depende de su temperatura. Analice el siguiente proceso
-de acuerdo con la primera ley. Se deja que una muestra de gas ideal se expanda a temperatura
-constante contra la presión atmosférica. a) ¿el gas realiza un trabajo sobre sus alrededores? b)
-¿hay intercambio de calor entre sistemas y los alrededores? si es así, ¿en qué dirección ocurre? c)
-¿Cuál es ΔE del gas para este proceso?
-30. ¿Cómo cambia la entropía de un sistema para cada uno de los siguientes procesos? a) un sólido se
+21. **En un proceso termodinámico, la energía interna del sistema se incrementa en 500 J. ¿Cuánto trabajo fue realizado por el gas si en el proceso fueron absorbidos 800 J de calor?**
+    - $W = 300J$
+    ---
+22. **El volumen de un gas disminuye de 5 a 3 L bajo una presión constante de 2 atm. ¿Cuánto trabajo se realiza? ¿Y se realiza sobre el gas o lo realiza éste? Si hay un incremento de 300 J en la energía interna, ¿cuál es el intercambio neto de calor? Trace un bosquejo del proceso.**
+    - $W = -202.6J$
+    - $\Delta Energia$ $interna$ = $97.4 J$
+    ---
+
+23. **Durante una expansión isobárica, una presión constante de 250 kPa hace que el volumen de un gas pase de 1 a 3 L. ¿Qué trabajo realiza el gas?**
+    - $W = 500J$
+    ---
+24. **Un motor con 37% de eficiencia pierde 400 J de calor en cada ciclo. ¿Qué trabajo se realiza y cuánto calor se absorbe en cada ciclo?**
+    - $W = 148 J$
+    - $Q = -252 J$
+    --- 
+25. **Una máquina de vapor recibe vapor sobrecalentado de una caldera que trabaja a 200°C y que lo arroja directamente al aire a 100°C. ¿Cuál es la eficiencia ideal?**
+    - $ 21.1$%
+    ---
+26. **Un refrigerador extrae 400 J de calor de una caja en cada ciclo y expulsa 600 J hacia un recipiente a alta temperatura. ¿Cuál es el coeficiente de rendimiento?**
+    - 3
+    ---
+27. **¿Cuánto calor se extrae del recipiente frío si el compresor de un refrigerador realiza 180 J de trabajo en cada ciclo? El coeficiente de rendimiento es 4.0. ¿Cuánto calor se expulsa hacia el recipiente caliente?**
+    -  $Q_s = 540J$
+    ---
+28. **¿En qué ley se basa la primera ley de la termodinámica? Proporcione una explicación respecto de los signos convencionales de la ecuación $ΔE = q + w$.**
+    - *Se basa en la conservación de la energía, y establece que el cambio en la energía total de un sistema cerrado, $ΔE$, viene dado por la suma del trabajo realizado sobre o por el sistema y la transferencia neta de calor hacia o desde el sistema. Simbólicamente, $ΔE = W + ΔQ.$*
+    ---
+29. **La energía interna de un gas ideal solo depende de su temperatura. Analice el siguiente proceso de acuerdo con la primera ley. Se deja que una muestra de gas ideal se expanda a temperatura constante contra la presión atmosférica. a) ¿el gas realiza un trabajo sobre sus alrededores? b) ¿hay intercambio de calor entre sistemas y los alrededores? si es así, ¿en qué dirección ocurre? c) ¿Cuál es ΔE del gas para este proceso?**
+    - Pendiente
+    ---
+30. **¿Cómo cambia la entropía de un sistema para cada uno de los siguientes procesos? a) un sólido se
 funde, b) un líquido se congela, c) un líquido hierve, d) un vapor se convierte en sólido, e) un vapor
-se condensa en un líquido, f) un sólido sublima, g) la urea se disuelve en agua 
+se condensa en un líquido, f) un sólido sublima, g) la urea se disuelve en agua**
+    - a) *La entropía aumenta*
+    - b) *La entropía disminuye* 
+    - c) *La entropía aumenta*
+    - d) *La entropía disminuye* 
+    - e) *La entropía disminuye*
+    - f) *La entropía aumenta*
+    - g) *La entropía aumenta*
+    ---
 
 
 ![Img](Cuadro.jpg)
