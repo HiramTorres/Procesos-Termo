@@ -51,9 +51,12 @@ correspondiente a su enunciado.
 
     ---
 5. ¿Qué es energía? Explica tu respuesta desde el enfoque de la termodinámica
-    - La energía es 
+    - La energía es la capacidad de realizar un trabajo 
     ---
+
 6. Explica la ley de la conservación de la energía
+    
+    ---
 7. Explica en qué consiste el concepto de gas ideal y la diferencia del comportamiento de un gas real
 8. Explica brevemente la Ley de Boyle
 9. Explica brevemente la Ley de Charles
