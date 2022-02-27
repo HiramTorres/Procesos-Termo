@@ -15,12 +15,44 @@ exotérmico?
 2. En el siguiente diagrama nombra y describe brevemente los procesos de cambio de estado, indica
 qué procesos son endotérmicos y cuáles son exotérmicos
 
-![img](/img/cambiodeestado.jpg)
+    ![img](/img/cambiodeestado.jpg)
+
+    ```Solido``` $\rightarrow$ ```Liquido``` = ```Fusión``` $Endotérmico$
+    ```Liquido``` $\rightarrow$ ```Solido``` = ```Solidificación``` $Exotérmico$
+    ```Liquido``` $\rightarrow$ ```Gaseoso``` = ```Vaporización``` $Endotérmico$
+    ```Gaseoso``` $\rightarrow$ ```Liquido``` = ```Condensación```$Exotérmico$
+    ```Gaseoso``` $\rightarrow$ ```Solido``` = ```Deposición``` $Endotérmico$
+    ```Solido``` $\rightarrow$ ```Gaseoso``` = ```Sublimación``` $Exotérmico$
+
+
     ---
 3. Enuncia brevemente las leyes de la termodinámica, señala la expresión matemática
 correspondiente a su enunciado.
+    - **Ley cero de Termodinámica**
+        - _La ley cero de la termodinámica o de calor establece que, si un cuerpo A se encuentra en equilibrio térmico con un cuerpo B, y este se encuentran en equilibrio térmico con un cuerpo C, A y C también están en equilibrio; es decir, los tres cuerpos, A, B y C, se encuentran en equilibrio térmico entre sí._
+            $Si$ $A = B$ $y$ $este$ $B = C$ $entonces$ $A = C$
+
+    - **Ley uno de Termodinámica**
+        - La energía no puede crearse o destruirse, solo transformarse de una forma a otra.
+
+            $\Delta Q = \Delta U + \Delta W$
+    - **Ley dos de Termodinámica**
+        -  La cantidad de entropía del universo tiende a incrementarse en el tiempo.​Este principio establece la irreversibilidad de los fenómenos físicos, especialmente durante el intercambio de calor.
+            $\Delta U = Q + W $
+    ---
 4. Explica la relación entre calor y trabajo
+    - Calor y trabajo son dos tipos de energía en tránsito, es decir, energía que pasa de un cuerpo a otro. Ambas tienen la misma unidad, julio en el S.I.
+
+        La principal diferencia entre ambas es la forma en la que se transfieren. El calor se transfiere entre dos cuerpos que tienen diferente temperatura. El trabajo se transfiere cuando entre dos cuerpos se realizan fuerzas que provocan desplazamientos o cambios dimensionales.
+
+
+        El calor se transfiere a través de un vínculo térmico (diferencia de temperatura). El trabajo se transfiere a través de un vínculo mecánico (fuerzas y desplazamientos).
+
+
+    ---
 5. ¿Qué es energía? Explica tu respuesta desde el enfoque de la termodinámica
+    - La energía es 
+    ---
 6. Explica la ley de la conservación de la energía
 7. Explica en qué consiste el concepto de gas ideal y la diferencia del comportamiento de un gas real
 8. Explica brevemente la Ley de Boyle
@@ -33,12 +65,6 @@ correspondiente a su enunciado.
 15. ¿Qué es Cp y Cv?
 16. ¿Qué es temperatura y presión crítica?
 17. ¿Cuál es la utilidad de la ecuación de Clausius – Clapeyron?
- UNIVERSIDAD TECNOLÓGICA DE MÉXICO
- Dirección Académica de Ingeniería
-
- Asignatura: PROCESOS DE TERMODINÁMICA
- Ciclo: 22-2
- | M. en I. José Ulises Cedillo Rangel
 18. ¿Qué es el coeficiente de Joule Thompson y cuál es su utilidad en ingeniería?
 19. ¿Qué es y qué representa un diagrama termodinámico?
 20. ¿Qué es la combustión? ¿Cuáles son las variables que influyen en esta reacción?
@@ -73,12 +99,6 @@ de suministrar el tanque en esas condiciones?
 lb/in2 cuando la temperatura es de 25°C. Durante la noche, hay una fuga en el recipiente y a la
 mañana siguiente se tienen 800 lb/in2 a una temperatura de 18°C. ¿Qué porcentaje de la masa
 original de helio permanece dentro del recipiente?
- UNIVERSIDAD TECNOLÓGICA DE MÉXICO
- Dirección Académica de Ingeniería
-
- Asignatura: PROCESOS DE TERMODINÁMICA
- Ciclo: 22-2
- | M. en I. José Ulises Cedillo Rangel
 36. Una muestra de 756 mL de agua se calienta desde 5.8 °C hasta 68°C. Calcule la cantidad de calor
 absorbido por el agua.
 37. La presión de vapor del metanol es de 127.2 mmHg a 25°C. Se conoce que el ΔHvapor es de 35.3
