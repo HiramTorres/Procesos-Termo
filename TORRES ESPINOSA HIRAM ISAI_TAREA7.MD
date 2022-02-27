@@ -19,4 +19,4 @@ b) 70 por ciento de exceso de aire. ¿En qué caso se quema el combustible con m
 	---
 	
 6. Se quema combustible de propano (C3H8) en presencia de aire. Suponiendo que la combustión es teórica —es decir, sólo están presentes en los productos nitrógeno (N2), vapor de agua (H2O) y dióxido de carbono (CO2)— determine a) la fracción másica de dióxido de carbono y b) las fracciones molar y másica del vapor de agua en los productos
-
+![img](tarea7.jpeg)
