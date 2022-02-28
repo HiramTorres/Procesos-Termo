@@ -180,33 +180,50 @@ mañana siguiente se tienen 800 lb/in2 a una temperatura de 18°C. ¿Qué porcen
 original de helio permanece dentro del recipiente?
     - $46$% del helio original permanece en el recipiente
     ---
-36. Una muestra de 756 mL de agua se calienta desde 5.8 °C hasta 68°C. Calcule la cantidad de calor
-absorbido por el agua.
-    - 
+36. Una muestra de 756 mL de agua se calienta desde 5.8 °C hasta 68°C. Calcule la cantidad de calor absorbido por el agua.
+    - $199.12 KJ$
     ---
 37. La presión de vapor del metanol es de 127.2 mmHg a 25°C. Se conoce que el ΔHvapor es de 35.3
 kJ/mol. Calcule presión de vapor a 35 °C.
+    - pendiente
+    ---
 38. Una mezcla combustible de 60 por ciento, a base másica, de metano (CH4) y 40 por ciento de
 etanol (C2H6O) se quema completamente con aire teórico. Si el flujo total del combustible es de 10
 kg/s, determine el flujo necesario de aire.
-39. Cierto gas natural tiene el siguiente análisis volumétrico: 65 por ciento de CH4, 8 por ciento de H2,
-18 por ciento de N2, 3 por ciento de O2 y 6 por ciento de CO2. Este gas se quema ahora por
+    - $139\frac{kg}{s}$
+    ---
+39. Cierto gas natural tiene el siguiente análisis volumétrico: 65 por ciento de CH4, 8 por ciento de H2, 18 por ciento de N2, 3 por ciento de O2 y 6 por ciento de CO2. Este gas se quema ahora por
 completo con la cantidad estequiométrica de aire seco. ¿Cuál es la relación aire-combustible para
 este proceso de combustión?
+    - $AC = 9.4775 \frac{Kgaire}{Kg combustible}$
+    ---
 40. Repita el problema anterior reemplazando el aire seco por aire húmedo que entra a la cámara de
 combustión a 25 °C, 1 atm y 85 por ciento de humedad relativa.
+    - $P_v = 2.694kPa$
+        $N_v,aire =.1713 kmol$
+        $AC = 9.4944 \frac{kg aire}{kg combustible}$
+    ---
 41. Un combustible gaseoso con un análisis volumétrico de 45 por ciento de CH4, 35 por ciento de H2
-y 20 por ciento de N2 se quema por completo con 130 por ciento del aire teórico. Determine la
-relación aire-combustible.
+y 20 por ciento de N2 se quema por completo con 130 por ciento del aire teórico. Determine la relación aire-combustible.
+
+    ---
 42. Se quema metano (CH4) con aire seco. El análisis de los productos en base seca es de 5.20 por
 ciento de CO2, 0.33 por ciento de CO, 11.24 por ciento de O2 y 83.23 por ciento de N2. Determine
 a) la relación aire-combustible y b) el porcentaje usado del aire teórico.
+
+    ---
 43. Se quema un carbón de Illinois con análisis elemental (en masa) de 67.40 por ciento de C, 5.31
 por ciento de H2, 15.11 por ciento de O2, 1.44 por ciento de N2, 2.36 por ciento de S y 8.38 por
 ciento de cenizas (no combustibles), con 40 por ciento de exceso de aire. Calcule la masa de aire
 necesaria por unidad de masa de carbón quemado, y el peso molecular aparente del gas producto,
 haciendo caso omiso del constituyente de ceniza.
+
+    ---
 44. La presión de vapor del etanol es de 100 mmHg a 34.9 °C. ¿Cuál es la presión de vapor a 63.5 °C?
 (el ΔHvap es de 39.3 kJ/mol)
+
+    ---
 45. La presión de vapor del benceno es 40.1 mmHg a 7.6°C. ¿Cuál es la presión de vapor a 60.6 °C?
 (el ΔHvap es de 31.0 kJ/mol)
+
+---
