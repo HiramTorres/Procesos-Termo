@@ -118,37 +118,72 @@ sistema.
         - la presencia de catalizadores (sustancias que aunque no parecen reaccionar, porque no se consumen, controlan el progreso de la reacción)
     ---
 21. ¿Cuáles son los elementos que intervienen en la combustión?
+    - Carbono, Oxígeno, Hidrógeno, Nitrógeno, Azufre.  
+    --- 
 22. ¿Cómo afecta la presencia de humedad en el aire al resultado de un proceso de combustión?
+    - La humedad, no reacciona químicamente con ninguna de las especies presentes en la cámara de combustión, pero absorbe parte de la energía liberada durante la combustión, y se eleva la temperatura del punto de rocío de los gases de combustión.
+    --- 
 23. ¿Acaso se conserva intacto el número de átomos de cada elemento durante una reacción química?
 ¿Qué ocurre con el número total de moles?
+    - El número de átomos se conservan durante una reacción química, pero el número total de moles no lo son.
+    ---
 24. ¿Qué es la relación aire-combustible? ¿Cómo se vincula con la relación combustible-aire?
+    - Relación de aire-combustible es la relación de la masa de aire a la masa de combustible durante un proceso de combustión. Relación combustible - aire es la inversa de la relación aire-combustible.
+    ---
 25. ¿Qué representa el 100 por ciento del aire teórico?
+    - Representa la cantidad de aire que contiene la cantidad exacta de oxígeno necesario para la combustión completa.
+    --- 
 26. ¿La combustión completa y la teórica son idénticas? Si no, ¿en qué se distinguen?
+    - No, porque la combustión teórica también es completa, pero los productos de la combustión teórica no contiene ningún oxígeno sin combinar.
+    ---
 27. Considere un combustible que se quema con a) 130 por ciento del aire teórico y b) 70 por ciento
 de exceso de aire. ¿En qué caso se quema el combustible con más aire?
+    - En el caso b) se quema el combustible con más aire 
+    ---
 28. ¿Cuáles son las causas de la combustión incompleta?
+    - Oxígeno insuficiente.
+    - La cámara de combustión hay suficiente oxígeno  del necesario para la combustión completa.
+    - El mezclado insuficiente en la cámara de combustión durante el tiempo en que el oxígeno y el combustible quedan en contacto.
+    - Otra causa es la disociación la cual se vuelve importante a elevadas temperaturas.
+    ---
 29. Una máquina térmica realiza 470 J de trabajo durante el cual su energía interna disminuye en 650J.
 ¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu  resultado
-30. Una máquina térmica realiza 1320 J de trabajo durante el cual su energía interna disminuye en
-750J. ¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu
+    - $ Q = -180 J$ El signo es negativo devido a que la máquina está sediendo calor 
+    ---
+30. Una máquina térmica realiza 1320 J de trabajo durante el cual su energía interna disminuye en 750J. ¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu
 resultado
+    - $Q = 570 J$ El signo es positivo porque aunque su energía interna disminuye sigue entrando calor al sistema 
+    ---
 31. Suponga que el gas de un cilindro expansible, se dilata a una presión constante de 470 kPa, en
 tanto que su volumen aumenta de 3.7 x 10-3 m3 a 6.18 x 10-3 m3 ¿Qué trabajo realiza el gas?
+    - $ W = 1165.6 J$
+    ---
 32. Una máquina ideal que funciona entre dos depósitos a 870 K y 540 K, respectivamente absorbe
 867 J de calor del depósito a alta temperatura durante cada ciclo. ¿Cuál es su eficiencia y cuánto
 calor libera al medio?
+    - $Q_c = -538.138 J$
+    ---
 33. Un refrigerador ideal funciona entre los 800 y los 500 K. En cada ciclo extrae 560 J de un depósito
 frío. ¿Cuánto trabajo se lleva a cabo en cada ciclo y cuánto calor se libera al medio?
+    - $W= 335.83 J$
+    - $Q_H = 895.93J$
+    ---
 34. Un tanque para oxígeno con un volumen interior de 20 litros se llena con ese gas bajo una presión
 absoluta de 17.8 MPa a 20°C. El oxígeno se va a usar en un avión para grandes alturas, donde la
 presión absoluta es sólo 85 kPa y la temperatura es —20°C. ¿Qué volumen de oxígeno será capaz
 de suministrar el tanque en esas condiciones?
+    - $V_2 = 3616.76 L$
+    ---
 35. La lectura de la presión manométrica en un tanque para el almacenamiento de helio indica 1800
 lb/in2 cuando la temperatura es de 25°C. Durante la noche, hay una fuga en el recipiente y a la
 mañana siguiente se tienen 800 lb/in2 a una temperatura de 18°C. ¿Qué porcentaje de la masa
 original de helio permanece dentro del recipiente?
+    - $46$% del helio original permanece en el recipiente
+    ---
 36. Una muestra de 756 mL de agua se calienta desde 5.8 °C hasta 68°C. Calcule la cantidad de calor
 absorbido por el agua.
+    - 
+    ---
 37. La presión de vapor del metanol es de 127.2 mmHg a 25°C. Se conoce que el ΔHvapor es de 35.3
 kJ/mol. Calcule presión de vapor a 35 °C.
 38. Una mezcla combustible de 60 por ciento, a base másica, de metano (CH4) y 40 por ciento de
