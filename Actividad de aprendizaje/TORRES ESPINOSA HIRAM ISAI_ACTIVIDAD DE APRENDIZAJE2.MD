@@ -205,7 +205,7 @@ combustión a 25 °C, 1 atm y 85 por ciento de humedad relativa.
     ---
 41. Un combustible gaseoso con un análisis volumétrico de 45 por ciento de CH4, 35 por ciento de H2
 y 20 por ciento de N2 se quema por completo con 130 por ciento del aire teórico. Determine la relación aire-combustible.
-
+    
     ---
 42. Se quema metano (CH4) con aire seco. El análisis de los productos en base seca es de 5.20 por
 ciento de CO2, 0.33 por ciento de CO, 11.24 por ciento de O2 y 83.23 por ciento de N2. Determine
@@ -221,9 +221,9 @@ haciendo caso omiso del constituyente de ceniza.
     ---
 44. La presión de vapor del etanol es de 100 mmHg a 34.9 °C. ¿Cuál es la presión de vapor a 63.5 °C?
 (el ΔHvap es de 39.3 kJ/mol)
-
+    - $P = 368.7 mmHg$
     ---
 45. La presión de vapor del benceno es 40.1 mmHg a 7.6°C. ¿Cuál es la presión de vapor a 60.6 °C?
 (el ΔHvap es de 31.0 kJ/mol)
-
+    - $P = 264.89 mmHg$
 ---
