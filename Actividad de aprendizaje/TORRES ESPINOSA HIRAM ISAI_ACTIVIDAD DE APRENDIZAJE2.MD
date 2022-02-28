@@ -55,22 +55,68 @@ correspondiente a su enunciado.
     ---
 
 6. Explica la ley de la conservación de la energía
-    
+    - Priemera ley de termodinámica es un principio que refleja la conservación de la energía en el contexto de la termodinámica y establece que si se realiza trabajo sobre un sistema o bien este intercambia calor con otro, la energía interna del sistema cambiará.
     ---
 7. Explica en qué consiste el concepto de gas ideal y la diferencia del comportamiento de un gas real
+    - Un gas ideal es un gas teórico compuesto de un conjunto de partículas puntuales con desplazamiento aleatorio, que no interactúan entre sí
+    y Un gas real, en cambio, es aquel con comportamiento termodinámico que no sigue la misma ecuación de estado de los gases ideales.
+    Es posible distinguir entre un gas ideal y un gas real, de acuerdo a los principios que relacionan su presión, volumen y temperatura.
+
+    ---
 8. Explica brevemente la Ley de Boyle
+    - Siempre que la masa y la temperatura de una muestra de gas se
+    mantengan constantes, el volumen de dicho gas es inversamente proporcional a su presión absoluta.
+    ---
 9. Explica brevemente la Ley de Charles
+    - Mientras la masa y la presión de un gas se mantengan
+    constantes, el volumen de dicho gas es directamente proporcional a su temperatura absoluta.
+    ---
 10. Explica brevemente la Ley de Gay – Lussac
+    - Si el volumen de una muestra de gas permanece constante,
+    la presión absoluta de dicho gas es directamente proporcional a su    temperatura absoluta.
+    --- 
 11. ¿Qué es entalpía?
+    - Flujo de calor en los procesos químicos efectuados a presión
+    constante cuando el único trabajo es de presión-volumen», es decir, la
+    cantidad de energía que un sistema intercambia con su entorno.
 12. ¿Qué es entropía?
+    - Es la medida directa de la aleatoriedad o del desorden de un
+sistema.
+    ---
 13. ¿Qué es energía interna?
+    - La energía interna de un sistema es un reflejo de la energía a escala macroscópica. Más concretamente, es la suma de: la energía cinética interna, es decir, de las sumas de las energías cinéticas de las individualidades que forman un cuerpo respecto al centro de masas del sistema.
+    ---
 14. Explica que es calor específico y capacidad calorífica
+    - La capacidad calorífica específica, calor específico o capacidad térmica específica es una magnitud física que se define como la cantidad de calor que hay que suministrar a la unidad de masa de una sustancia o sistema termodinámico para elevar su temperatura en una unidad
+    ---
 15. ¿Qué es Cp y Cv?
+    - CV: Es la cantidad de calor que es necesario suministrar a un mol de gas ideal
+    para elevar su temperatura un grado mediante una transformación isocora.
+    CP: Es la cantidad de calor que es necesario suministrar a un mol de gas ideal para elevar su temperatura un gradomediante una ransformación isóbara.
+    ---
 16. ¿Qué es temperatura y presión crítica?
+    - La presión crítica es una característica de cualquier sustancia, que define el campo en el que esta puede transformarse en vapor en presencia del líquido correspondiente.
+    - La temperatura es una magnitud física que indica la energía interna de un cuerpo, de un objeto o del medio ambiente en general, medida por un termómetro.
+    ---
 17. ¿Cuál es la utilidad de la ecuación de Clausius – Clapeyron?
+    - La ecuación de Clausius-Clapeyron es usada en el estudio de transiciones de fase, particularmente las que ocurren en sustancias puras. Ésta es una importante relación en termodinámica pues permite determinar la entalpía en cambios de fase, como por ejemplo la entalpía de vaporización a una temperatura fija
+    ---
 18. ¿Qué es el coeficiente de Joule Thompson y cuál es su utilidad en ingeniería?
+    - El coeficiente de Joule-Thomson es una medida del cambio en la temperatura con la presión durante un proceso de entalpía constante.
+    ---
 19. ¿Qué es y qué representa un diagrama termodinámico?
+    - Un diagrama de cualquier tipo es una representación gráfica de uno o mas conjuntos de datos numéricos organizados en forma de tabla.
+    - Dan una representación gráfica de los procesos
+    ---
 20. ¿Qué es la combustión? ¿Cuáles son las variables que influyen en esta reacción?
+    - La combustión es una reacción química durante la cual se oxida un combustible y se libera una gran cantidad de energía.
+    - Las variables que influyen en el proceso de la combustión: 
+        - la composición (relación combustible / comburente y relación gas inerte / comburente),
+        - la temperatura,
+        - la presión,
+        - el campo de velocidades,
+        - la presencia de catalizadores (sustancias que aunque no parecen reaccionar, porque no se consumen, controlan el progreso de la reacción)
+    ---
 21. ¿Cuáles son los elementos que intervienen en la combustión?
 22. ¿Cómo afecta la presencia de humedad en el aire al resultado de un proceso de combustión?
 23. ¿Acaso se conserva intacto el número de átomos de cada elemento durante una reacción química?
@@ -82,8 +128,7 @@ correspondiente a su enunciado.
 de exceso de aire. ¿En qué caso se quema el combustible con más aire?
 28. ¿Cuáles son las causas de la combustión incompleta?
 29. Una máquina térmica realiza 470 J de trabajo durante el cual su energía interna disminuye en 650J.
-¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu
-resultado
+¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu  resultado
 30. Una máquina térmica realiza 1320 J de trabajo durante el cual su energía interna disminuye en
 750J. ¿Cuál será el intercambio de calor neto de este proceso? Explica el sentido del signo en tu
 resultado
