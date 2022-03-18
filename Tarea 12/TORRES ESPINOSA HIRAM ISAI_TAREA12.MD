@@ -18,3 +18,10 @@
 - 5-6 Comprensión isocórica 
 - 6-1 Expansión isocórica 
 
+![img](diagrama3.jpg)
+
+- 1-2 Conpresión isobárica 
+- 2-3 Expansión isotérmica  
+- 3-4 Expansión isocórica 
+- 4-5 Expansión isocórica
+- 5-6 comprensión isocórica
