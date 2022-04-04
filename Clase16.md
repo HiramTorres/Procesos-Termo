@@ -27,4 +27,4 @@ Partiendo de las expresiones $P_5 V_5^ \gamma$ = $P_6 V_6^\gamma$
 q + el proceso es endotérmico
 q - 
 
-r = 0.287 $\frac{kPaM^3}{Kg}$
+r = 0.287 $\frac{kPaM^3}{Kg}$k
